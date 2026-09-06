@@ -25,4 +25,4 @@ Combines changes from one branch into another.
 Moves HEAD to another commit and can undo or unstage changes.
 
 ## git push
-Uploads local commits to a remote repository.
+Uploads local commits to a remote repository.   
